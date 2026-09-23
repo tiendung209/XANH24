@@ -1,0 +1,24 @@
+{
+  "hero": {
+    "title": "Ký túc xá thông minh cho thế hệ sinh viên mới",
+    "description": "Hệ sinh thái All-in-One đầu tiên tại Việt Nam: Chỗ ở chất lượng cao, kết nối việc làm, tài chính số cùng MB Bank và hạ tầng số từ VNPT. Không chỉ là chỗ ở, là bệ phóng sự nghiệp."
+  },
+  "videos": {
+    "popup": {
+      "url": "/video/pioneer-day.mp4",
+      "title": "Xanh24 x MB Bank Pioneer Day",
+      "subtitle": "500 suất • Đang diễn ra",
+      "eyeStart": 2134
+    },
+    "hero": {
+      "url": "/video/hero-bg.mp4"
+    }
+  },
+  "pioneer": {
+    "total": 500,
+    "booked": 312,
+    "remaining": 188
+  },
+  "updatedAt": "2026-09-17T16:00:00Z",
+  "version": "V42.4"
+}

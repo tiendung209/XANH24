@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  temp-site:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: xanh24_temp_site
+    ports:
+      - "8080:80" 
+    restart: always

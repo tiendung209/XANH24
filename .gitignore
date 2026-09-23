@@ -1,0 +1,9 @@
+# Ignore duplicate files
+INDEX.html
+index_*.html
+Admin.html
+admin.html
+Landing_Page*
+Landing Page*
+README_*.md
+*.zip
